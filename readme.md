@@ -1,2 +1,2 @@
-My personal portfolio, blogs (or yappings), and projects showcase. <br>
-Built with [Hugo](https://gohugo.io/) and hosted on [GitHub Pages](https://pages.github.com/).
+My personal portfolio, random musings (or yappings) and interests showcase. <br>
+Built with [Hugo](https://gohugo.io/), [Coder](https://github.com/luizdepra/hugo-coder/) theme and hosted on [GitHub Pages](https://pages.github.com/).
