@@ -2,14 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hhhmgk.github.io/</loc>
-    <lastmod>2025-11-11T03:35:03+00:00</lastmod>
-  </url><url>
-    <loc>https://hhhmgk.github.io/posts/</loc>
-    <lastmod>2025-11-11T03:35:03+00:00</lastmod>
+    <loc>https://hhhmgk.github.io/authors/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
   </url><url>
     <loc>https://hhhmgk.github.io/categories/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/posts/k8s-service-port-targetport/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/authors/duc-huy-ngo/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/categories/engineer/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/tags/k8s/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/tags/kubernetes/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/tags/port/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/posts/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/tags/service/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/categories/system/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
   </url><url>
     <loc>https://hhhmgk.github.io/tags/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/tags/targetport/</loc>
+    <lastmod>2025-11-13T02:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/about/</loc>
+    <lastmod>2025-11-11T04:21:08+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/posts/my-first-post/</loc>
+    <lastmod>2025-11-11T03:35:03+00:00</lastmod>
+  </url><url>
+    <loc>https://hhhmgk.github.io/series/</loc>
   </url>
 </urlset>
